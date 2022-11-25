@@ -1,0 +1,44 @@
+Altay Bayındır,Fenerbahçe
+irfan Can Kahveci,,Fenerbahçe
+Serdar Aziz,Fenerbahçe
+Gustavo Henrique,Fenerbahçe
+Osman Ertuğrul Çetin,Fenerbahçe
+Atilla Szalai,Fenerbahçe
+Arda Güler,Fenerbahçe
+İsmail Yüksek,Fenerbahçe
+Laun Peres,Fenerbahçe
+Ferdi Kadıoğlu,Fenerbahçe
+Willian Arao,Fenerbahçe
+Emre Bilgin,Beşiktaş
+Ersin Destanoğlu,Beşiktaş
+Tayfur Bingöl,Beşiktaş
+Umut Meras,Beşiktaş
+Francisco Montero,Beşiktaş
+Weliton,Beşiktaş
+Necip Uysal,Beşiktaş
+Romain Saiss,Beşiktaş
+Arthur Masuaku,Beşiktaş
+Mert Günok,Beşiktaş
+Fernando MUslera,Galatasaray
+Emre Taşdemir,Galatasaray
+Abdülkerim Bardakçı,Galatasaray
+Metehan Baltacı,Galatasaray
+Kazım Karataş,Galatasaray
+Fredrik Midysjö,Galatasaray
+Sergio Oliveira,Galatasaray
+Özgür Baran Aksaka,Galatasaray
+Hamza Yiğit Akman,Galatasaray
+Kerem Aktürkoğlu,Galatasaray
+Juan Mata,Galatasaray
+Dries Mertens,Galatasaray
+Yusuf Yazıcı,Trabzonspor
+Evren Eren Elmalı,Trabzonspor
+Hüseyin Türkmen.Trabzonspor
+Jens Stryger Larsen,Trabzonspor
+Serkan Asan,Trabzonspor
+Taha Altıkardeş,Trabzonspor
+Stefano Denswil,Trabzonspor
+Vıtor Hugo,Trabzonspor
+Marc Bartra,Trabzonspor
+Abdülkadir Ömür,Trabzonspor
+Anastasıos Bakasetas,Trabzonspor

@@ -1,0 +1,4 @@
+ayşe bilgin:90,85,98
+ramazan bilgin:50,60,70
+hiranur bilgin:80,60,90
+zehranur çalış:60,55,98
